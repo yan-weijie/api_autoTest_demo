@@ -28,7 +28,7 @@ import com.zdlh.test.ConnSql;
  * Created by Administrator on 2018/1/5.
  */
 public class loanApiTest {
-    private String baseUrl = "http://172.17.2.17";
+    private String baseUrl = "xxx";
     private int port = 8085;
     private int periods;
     private ConnSql connSql = new ConnSql();
